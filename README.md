@@ -68,18 +68,16 @@ Robotik, otonom sistemler ve makine öğrenmesi odaklı bir bilgisayar mühendis
 ---
 
 ## 📊 GitHub İstatistikleri
-
+ 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=beyzayilmz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzayilmz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beyzayilmz&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=beyzayilmz&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
-
+ 
 <p align="center">
   <i>İş birliği ve proje tekliflerine açığım!</i><br>
   <a href="mailto:yilmazbeyzza@gmail.com">yilmazbeyzza@gmail.com</a>
