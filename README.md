@@ -35,7 +35,7 @@ Robotik, otonom sistemler ve makine öğrenmesi odaklı bir bilgisayar mühendis
 | [**Traffic Sign Classification**](https://github.com/beyzayilmz/TrafficSignClassification) | Trafik levhası sınıflandırması için CNN, XGBoost ve YOLO modellerinin karşılaştırmalı analizi. | `Python` `OpenCV` `CNN` `YOLO` `XGBoost` |
 | [**TreasureHuntAdventure**](https://github.com/beyzayilmz/TreasureHuntAdventure) | Multi-linked list, BST ve dosyalama yapıları kullanılarak geliştirilmiş masaüstü oyunu. | `Java` `Swing` `Data Structures` |
 | **Smart Medicine Box** | STM32 mikrodenetleyici ile gerçek zamanlı akıllı ilaç kutusu sistemi. | `STM32` `Embedded C` `Sensors` |
-| **Face Recognition System** | OpenCV ve derin öğrenme ile uçtan uca gerçek zamanlı yüz tanıma motoru. | `Python` `OpenCV` `Computer Vision` |
+| [**Battleship**](https://github.com/beyzayilmz/amiral_batti_aglab_2026) | TCP tabanlı çok oyunculu Amiral Battı oyunu. | `Python` `TCP` `PyQT5` `AWS EC2` |
 
 ---
 
