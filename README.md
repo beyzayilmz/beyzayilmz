@@ -1,28 +1,8 @@
-<h1 align="center">Merhaba, ben Beyza 👋</h1>
-
-<p align="center">
-  <b>Bilgisayar Mühendisliği Öğrencisi · AI & Robotik & Otonom Sistemler</b><br>
-  Fatih Sultan Mehmet Vakıf Üniversitesi · 3. Sınıf
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/beyza-yilmaz-11b86b293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yilmazbeyzza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=beyzayilmz&color=blueviolet&style=flat&label=Profil+Görüntüleme"/>
 </p>
-
----
-
-## 🧠 Hakkımda
-
-Robotik, otonom sistemler ve makine öğrenmesi odaklı bir bilgisayar mühendisliği öğrencisiyim. ROS tabanlı navigasyon sistemlerinden derin öğrenme mimarilerine, LLM tabanlı AI Agent geliştirmeden gömülü sistem programlamaya uzanan geniş bir teknik yelpazede projeler geliştiriyorum.
-
-- 🤖 **TEKNOFEST** Havacılıkta Yapay Zeka Yarışması — Yarı Finalist (LUKA Takımı)
-- 🚗 **TEKNOFEST** Robotaksi Otonom Araç Yarışması — Kontrol & Planlama Ekibi
-- 🏭 **UTIENCE A.Ş.** — AR-GE Stajı
-- 🎓 **Milli Teknoloji Akademisi** — Otonom Sürüş Teknolojileri Uzmanlık Programı Mezunu
-- 🔬 **Yeni Nesil AR-GE Topluluğu** — Yönetim Kurulu Üyesi, Eğitim & Teknik Planlama
-- 🌱 Şu an odaklandığım alanlar: **ROS · Path Planning · LLM Agents · Computer Vision**
 
 ---
 
